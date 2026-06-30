@@ -1,4 +1,4 @@
-astr="Hello Bob"
+#astr="Hello Bob"
 try:
     istr= int(astr)
 except:
